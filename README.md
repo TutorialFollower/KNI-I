@@ -1,4 +1,4 @@
-#KNI-I
+# KNI-I
 
 **Version 1.0.0**
 
@@ -7,6 +7,6 @@ Much more will be added in the future this is only a prototype.
 
 KNI-I is a open-sourced programming language made from C++ and is related to C++, KNI-I is a strongly typed programming language that doesn't support OOP.
 
-##License & copyright
+## License & copyright
 
 ©TutorialFollower all rights reserved.
