@@ -12,3 +12,30 @@ KNI-I is a open-sourced programming language made from C++ and is related to C++
 ## License & copyright
 
 ©TutorialFollower all rights reserved.
+
+---
+
+```
+Use #include "KNI-I"
+
+```
+
+---
+
+```
+Demo 
+
+#include "NovaKeyWords.h"
+#include <iostream>
+
+INT main() {
+	INT a = 90;
+	INT b = 10;
+
+	IF(a == b) {
+		cout << "a is equal to b!";
+	}
+
+}
+
+```
